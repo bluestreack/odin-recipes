@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Californian FB", "Annapurna SIL", serif;
+    font-style: italic;
+    font-weight: 100;
+    color: #5D2A42;
+}
+
+
+body{
+    background-color: #FCB1A6;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+
+.contenedorHeaderYMain{
+    display: flex;
+    width: 1920px;
+    height: 1080px;
+    justify-content: space-evenly;
+}
+
+.contenedorNav{
+    width: 334px;
+    height: 1050px;
+    display: flex;
+}
+
+.air{
+    width: 30px;
+    height: 1050px;
+}
+
+header{
+    width: 274px;
+    height: 1050px;
+    background-color: #FFF9EC;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 1050px;
+    justify-content: space-evenly;
+}
+
+li{
+    font-size: 30px;
+}
+
+main{
+    background-color: #FFF9EC;
+    width: 1586px;
+    height: 1050px;
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    padding: 30px;
+}
+
+.articulosDeComida{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+article{
+    width: 488px;
+    height: 887px;
+    background-color: #FB6376;
+}
+
+.alitass{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+p{
+    padding: 30px;
+    font-size: 40px;
+    color: #FFF9EC;
+}
